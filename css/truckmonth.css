@@ -5,6 +5,11 @@ h1 {
     font-weight: bold;
 }
 
+p {
+    margin: 0 auto;
+    text-align: center;
+}
+
 /* RESPONSIVE VIDEO EMBEDDING */
 
 div.TRUCKMONTH {
